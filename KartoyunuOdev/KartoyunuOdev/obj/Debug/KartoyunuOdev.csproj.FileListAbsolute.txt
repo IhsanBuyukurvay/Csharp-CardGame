@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Proje\KartoyunuOdev\KartoyunuOdev\obj\Debug\KartoyunuOdev.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Proje\KartoyunuOdev\KartoyunuOdev\obj\Debug\KartoyunuOdev.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Proje\KartoyunuOdev\KartoyunuOdev\bin\Debug\KartoyunuOdev.exe.config
+C:\Users\User\Desktop\Proje\KartoyunuOdev\KartoyunuOdev\bin\Debug\KartoyunuOdev.exe
+C:\Users\User\Desktop\Proje\KartoyunuOdev\KartoyunuOdev\bin\Debug\KartoyunuOdev.pdb
+C:\Users\User\Desktop\Proje\KartoyunuOdev\KartoyunuOdev\obj\Debug\KartoyunuOdev.exe
+C:\Users\User\Desktop\Proje\KartoyunuOdev\KartoyunuOdev\obj\Debug\KartoyunuOdev.pdb
+D:\BM Lectures\Proje\KartoyunuOdev\KartoyunuOdev\bin\Debug\KartoyunuOdev.exe.config
+D:\BM Lectures\Proje\KartoyunuOdev\KartoyunuOdev\bin\Debug\KartoyunuOdev.exe
+D:\BM Lectures\Proje\KartoyunuOdev\KartoyunuOdev\bin\Debug\KartoyunuOdev.pdb
+D:\BM Lectures\Proje\KartoyunuOdev\KartoyunuOdev\obj\Debug\KartoyunuOdev.csprojAssemblyReference.cache
+D:\BM Lectures\Proje\KartoyunuOdev\KartoyunuOdev\obj\Debug\KartoyunuOdev.csproj.CoreCompileInputs.cache
+D:\BM Lectures\Proje\KartoyunuOdev\KartoyunuOdev\obj\Debug\KartoyunuOdev.exe
+D:\BM Lectures\Proje\KartoyunuOdev\KartoyunuOdev\obj\Debug\KartoyunuOdev.pdb
